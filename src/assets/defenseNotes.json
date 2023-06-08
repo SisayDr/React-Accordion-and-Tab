@@ -1,0 +1,60 @@
+{
+  "Notes": [
+    {
+      "id": 1,
+      "title": "Do everything you've promised on your proposal",
+      "body": "Choose your title and the words you put on your proposal carefully. Because, they're gonna have the list of things you promised on a paper and ask you where is this and this. So, make sure you can achieve what you're going to propose, before you even submit your title. <br /><i>Personal Advice: promise less then deliver more!</i>"
+    },
+    {
+      "id": 2,
+      "title": "Know everything there is to know about your project",
+      "body": "If you're working on a health related project, you can't say we don't know about ***** because we're not a doctor. You have to know! Do a lot of research and know everything there is to know. Because, they don't care, They just expect you to know.<br /><i>Personal Advice: Again, Choose your title carefully! (less research የሚያስፈልገው)</i> "
+    },
+    {
+      "id": 3,
+      "title": "Add something other than CRUD operations",
+      "body": "<b>Kidane: </b><i>\"CRUD operations'ma manim yiserawal. gen as a computer science student what have contributed? you could have add some kind of Algorithm or AI\"</i>"
+    },
+    {
+      "id": 4,
+      "title": "Show every single thing you've worked on",
+      "body": "During the presentation, You'll start with your PowerPoint which is mostly chapter 1 of your documentation. (Introduction, Objective, Statement of Problem, Scope etc.) Then, you'll procced to the demo. At this time, you should show every part of your system from the start to end. Show every functionality you've done, because you've worked hard for it!.<br /><i>Personal Advice: Answer the most commonly asked questions on your demo.</i>"
+    },
+    {
+      "id": 5,
+      "title": "Have a positive attitude towards the examiner",
+      "body": "When the examiners ask question, do not assume they're raising questions just to attack you. Instead, think that they're asking questions because they want to deeply understand and appreciate what you've done. So, take questions kindly.<br /><br />If that doesn't work for you, think of examiners as your employers who have paid you a ton of money to develop a system for them. So, they have  every right to ask any questions and even be upset. So, try to see things in their shoe (your employers) and stay calm whenever they talk to you harshly and answer their question kindly."
+    },
+    {
+      "id": 6,
+      "title": "Do not flex!",
+      "body": "You may have done something good and develop a system that is somehow complex and difficult. But, If your project is not complete don't flex on what you have done and say things like \"...even this one part of the system is very complex eko, beza lay we didn't have enough time, there is also exit exam in front of us, bezu leftenal dekmenal...\" 🥱😴<br /><i>They don't care!  If you've promised something on your proposal, you've got to do it all! No excuses!</i>"
+    },
+    {
+      "id": 7,
+      "title": "Don't foreget to add the simple validations",
+      "body": "They will ask you to enter invalid values in the input fields. <br />&emsp; string+number for name<br /> &emsp; negetaive or big number for age<br /> &emsp; email without @****.com<br /> &emsp; future date for birthday <br /> &emsp;  past dates for deadline etc."
+    },
+    {
+      "id": 8,
+      "title": "Collect useful and approprite data only!",
+      "body": "If you collect email and doesn't actually use it for comfirmation or login, then they'll ask why collect email, what is the point? So, before you ask users for any information, ask yourself <i>\"What teqm man?\"</i>"
+    }
+  ],
+  "CommonQuestions": [
+    "What was the front-end developed with?",
+    "Which database did you use?",
+    "What is the name of algorithm you used (if any)?",
+    "What other options did you have and why did you choose this one?",
+    "Does your form accept number in name, 200 in age? (common validations)",
+    "Does your system has session? <br /> login -> copy url -> logout -> open the url in new tab : if the restricted page opens ❌"
+  ],
+  "CommonMistakes": [
+    "<b>No Validation: </b> at least do validations like type=email, type=password, seting min & max for age, birthdate etc.",
+    "<b>Dark Theme: </b> use light theme and increase brightness while presenting. It won't be visible clearly",
+    "<b>Blank End Page: </b> don't forget to add Thank you page at the end of your PowerPoint",
+    "<b>Junk tast data: </b> Remove all junk data you have used for testing. eg. Item = Pizza, Photo = Person",
+    "<b>Too much mov't: </b> During presentation avoid moving around too much",
+    "<b>Zuriya temtem: </b> When you're asked question, try to answer directly instead of taking other staff"
+  ]
+}
